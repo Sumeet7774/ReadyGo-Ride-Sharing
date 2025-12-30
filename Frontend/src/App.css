@@ -1,0 +1,12 @@
+/* Global app shell tweaks – most styling is done with Tailwind classes */
+
+#root {
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+}
+
+body {
+  background: radial-gradient(circle at top left, #e0f2fe 0, #f9fafb 40%, #eef2ff 100%);
+}
+
