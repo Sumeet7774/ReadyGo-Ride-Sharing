@@ -133,5 +133,3 @@ EMAIL_PASS=your_email_password
 
 
 ---
-
-Made with ❤️ by Tejas Detroja
